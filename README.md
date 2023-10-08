@@ -1,1 +1,1 @@
-# odin-recipes
+Here i am going to make a Project for applying my skills of HTML that i have learned from Odin_Project.
