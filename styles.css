@@ -1,0 +1,43 @@
+body{
+    background-color: rgb(61, 59, 59);
+}
+#main{
+    text-align: center;
+    color: orange;
+}
+#lasa{
+    text-align: center;
+    display: block;
+    padding: 10px;
+    margin: 3px 0px;
+    border: 6px rebeccapurple solid;
+    background-color: aqua;
+}
+#but{
+    text-align: center;
+    display: block;
+    padding: 10px;
+    margin: 3px 0px;
+    border: 6px rebeccapurple solid;
+    background-color: aqua;
+}
+#raj{
+    text-align: center;
+    display: block;
+    padding: 10px;
+    margin: 3px 0px;
+    border: 6px rebeccapurple solid;
+    background-color: aqua;
+}
+#las{
+    text-align: center;
+    background-color: coral;
+    color: aliceblue;
+}
+#las-desc{
+    text-align: justify;
+    color: rgb(243, 190, 120);
+}
+#las-p{
+    background-color: yellow;
+}
